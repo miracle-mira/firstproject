@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main()
 {
     int i, *p; //값을 저장할 변수(i)와 주소값을 저장할 변수(p,포인터) 선언
