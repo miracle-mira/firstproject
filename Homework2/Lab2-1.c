@@ -1,7 +1,3 @@
-/*
-[----- [박미라] [2020069006] -----]
-*/
-
 #include <stdio.h>
 int main()
 {
@@ -10,8 +6,7 @@ int main()
     float floatType;    //실수형 변수 floatType 선언
     double doubleType;  //더블형 변수 doubleType 선언
 
-    printf("%d\n",integerType+1);
-    printf("%d\n",integerType);
+    printf("\n\n[----- [박미라] [2020069006] -----]\n\n");
 
     //변수의 크기 선언
     printf("Size of char: %ld byte\n",sizeof(charType));         //charType 변수의 크기 출력: char형으로 선언했기 때문에 1byte
